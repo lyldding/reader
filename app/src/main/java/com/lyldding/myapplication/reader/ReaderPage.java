@@ -19,7 +19,7 @@ import com.lyldding.myapplication.SmoothLinkMovementMethod;
 import java.util.List;
 
 /**
- * @author lyldding
+ * @author https://github.com/lyldding/reader
  */
 public class ReaderPage extends AppCompatTextView {
 

@@ -1,8 +1,7 @@
 package com.lyldding.myapplication;
 
 /**
- * @author lyldding
- * @date 2019/8/13
+ * @author https://github.com/lyldding/reader
  */
 public interface ClickWordListener {
     public void onClickWord(String word);

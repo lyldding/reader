@@ -3,7 +3,7 @@ package com.lyldding.myapplication.reader;
 import java.io.Serializable;
 
 /**
- * @author lyldding
+ * @author https://github.com/lyldding/reader
  */
 public class WordInfo implements Serializable {
     private int start;

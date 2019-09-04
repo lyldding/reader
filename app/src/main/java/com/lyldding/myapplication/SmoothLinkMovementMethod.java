@@ -30,8 +30,7 @@ import android.view.ViewConfiguration;
 import android.widget.TextView;
 
 /**
- * @author lyldding
- * @date 2019/9/1
+ * @author https://github.com/lyldding/reader
  */
 public class SmoothLinkMovementMethod extends ScrollingMovementMethod {
     private static final int CLICK = 1;
